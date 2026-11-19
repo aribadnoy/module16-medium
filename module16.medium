@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html lang="sq">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Image Sprites</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>CSS Image Sprites</h1>
+        <link rel="stylesheet" href="style.css">
+        <p>Mirë se vini në faqen tonë!</p>
+    </header>
+
+    <main>
+        <h2>Rrjetet tona sociale</h2>
+
+        <ul>
+            <li>
+                <span class="icon facebook"></span>
+                Facebook
+            </li>
+
+            <li>
+                <span class="icon instagram"></span>
+                Instagram
+            </li>
+
+            <li>
+                <span class="icon youtube"></span>
+                YouTube
+            </li>
+
+            <li>
+                <span class="icon twitter"></span>
+                Twitter
+            </li>
+        </ul>
+    </main>
+
+    <footer>
+        <p>© 2026 CSS Image Sprites - Të gjitha të drejtat e rezervuara.</p>
+    </footer>
+
+</body>
+</html>
